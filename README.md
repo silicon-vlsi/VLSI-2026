@@ -23,7 +23,7 @@ VLSI Mentoring Portal for the 2026 Silicon University Batch.
   - For the second one, the provided waveform is representative....to describe it, `b` and `c` are _delayed_ versions of `a`. Signal `b` is delayed by one cycle and `c` is delayed by 2 cycles with respect to `a`. The circuit works on the _positive edge_ of the clock. Outputs go to `0` when `rstn=0`. The reset (`rstn`) is an asynchronous, `active low` one. **NOTE** The reset is inverted mistakenly!
     
 - **14 Feb 2025**
-  - Please go through these concepts in Verilog. Whatever modules code, we will need these to design and test them:
+  - Please go through these concepts in Verilog. Whatever modules code, we will need these to design and test them ([Tutorials from ChipVerify](https://www.chipverify.com/tutorials/verilog) are a good resource):
     - Ports (`input/output/inout`)
     - Variables (`reg`, `wire`)
     - `always` blocks:
