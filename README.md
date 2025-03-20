@@ -4,12 +4,16 @@ VLSI Mentoring Portal for the 2026 Silicon University Batch.
 # Resources
 
 - [Verilog Tutorials from ChipVerify](https://www.chipverify.com/tutorials/verilog): for begineers that take you from basic datatypes to building hardware circuits.
+- [Clifford Cummings Google Scholar](https://scholar.google.com/citations?user=j53P4MQAAAAJ&hl=en&oi=ao)
 
 # Sessions
 
 **Sessions by Mr. Sujit Panda**
 - **20 Mar 2025**
   - ![Problem Fig 1](media/2025-0320-Problem-Fig-1.jpeg)  Figure-1 Arbiter design problem.
+    - Design an arbiter that takes in multiple requests and services them one by one in the priority order $r1 > r2 > r3$
+    - Acknowledgement will be asserted for one cycle for a request. If the request remains high even after that, it will be considered a new request. If multiple requests are asserted at the same time, they will be services in order of priority.
+    - Design a modification to the above problem for _Round-Robin_ priority. At reset you start with the priority $r1 > r2 r3$, if you service say $r1$ then move it to the end ie. $r2 > r3 > r1$ and so on. 
 
 - **27 Feb 2025**
   - ![Problem Fig 1](media/2025-0227-Problem-Fig-1.jpeg)  Figure-1 Positive-edge detector.
