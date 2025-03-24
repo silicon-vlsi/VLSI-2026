@@ -3,8 +3,14 @@ VLSI Mentoring Portal for the 2026 Silicon University Batch.
 
 # Resources
 
-- [Verilog Tutorials from ChipVerify](https://www.chipverify.com/tutorials/verilog): for begineers that take you from basic datatypes to building hardware circuits.
-- [Clifford Cummings Google Scholar](https://scholar.google.com/citations?user=j53P4MQAAAAJ&hl=en&oi=ao) A great resource of papers on practical digital design.
+- **LITERATURE**
+  - Clifford Cummings, _State Machine Coding Styles for Synthesis_, SNUG, 1998 ([PDF](media/CummingsSNUG1998SJ_FSM.pdf))
+  - Clifford Cummings, _Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!_, SNUG, 2000 ([PDF](media/CummingsSNUG2000SJ_NBA.pdf))
+  - Clifford Cummings, et.al., _Asynchronous & Synchronous Reset Design Techniques - Part Deux_, SNUG, 2003 ([PDF](media/CummingsSNUG2003Boston_Resets.pdf))
+  - [Clifford Cummings Google Scholar](https://scholar.google.com/citations?user=j53P4MQAAAAJ&hl=en&oi=ao) A great resource of papers on practical digital design.
+- **ONLINE**
+  - [Verilog Tutorials from ChipVerify](https://www.chipverify.com/tutorials/verilog): for begineers that take you from basic datatypes to building hardware circuits.
+
 
 # Sessions
 
