@@ -11,6 +11,11 @@ VLSI Mentoring Portal for the 2026 Silicon University Batch.
 - **ONLINE**
   - [Verilog Tutorials from ChipVerify](https://www.chipverify.com/tutorials/verilog): for begineers that take you from basic datatypes to building hardware circuits.
 
+# Projects
+
+## Digital Temperature Monitor
+
+- [Follow this template GitHub Repo](
 
 # Sessions
 
