@@ -15,7 +15,7 @@ VLSI Mentoring Portal for the 2026 Silicon University Batch.
 
 ## Digital Temperature Monitor
 
-- [Follow this template GitHub Repo](
+- [Follow this template GitHub Repo](https://github.com/silicon-vlsi/digital-temp-monitor/)
 
 # Sessions
 
